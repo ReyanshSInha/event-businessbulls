@@ -1,0 +1,5 @@
+.HeroSectionGradient{
+    background: -webkit-linear-gradient(#F54109, #F5D00B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
